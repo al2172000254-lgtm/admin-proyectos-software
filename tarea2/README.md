@@ -60,7 +60,7 @@ Las siguientes imágenes documentan la configuración y las actividades realizad
 
 **Figura 1.** Configuración del SDK de Android mediante SDK Manager.
 
-![Evidencia 2. Herramientas de desarrollo](img/02-android-studio.png)
+![Evidencia 2. Herramientas de desarrollo](img/02-flutter-version.png)
 
 **Figura 2.** Entorno de desarrollo Android Studio.
 
@@ -75,6 +75,10 @@ Las siguientes imágenes documentan la configuración y las actividades realizad
 ![Evidencia 5. Dispositivo Android](img/05-dispositivo.png)
 
 **Figura 5.** Dispositivo Android empleado para las pruebas.
+
+![Evidencia 5.1 Aplicación Flutter](img/05-holamundo-flutter.png)
+
+**Figura 5.1.** Evidencia de la aplicación HolaMundoFlutter ejecutada.
 
 ![Evidencia 6. Aplicación de ejemplo](img/06-holamundo-kmp.png)
 
@@ -157,7 +161,6 @@ Configuración JSON:
   }
 }
 ```
-
 ### 7.1. Descripción de los parámetros
 
 - `mcpServers`: contiene los servidores MCP configurados en la aplicación.
@@ -276,5 +279,3 @@ Cursor. (s. f.). *Model Context Protocol (MCP)*. Cursor Documentation. https://c
 Zed Industries. (s. f.). *Model Context Protocol*. Zed Documentation. https://zed.dev/docs/ai/mcp
 
 Universidad Autónoma Metropolitana, Unidad Azcapotzalco. (2026). *Tarea 2: Entorno móvil e inteligencia artificial con MCP* [Instrucciones de la actividad académica].
-
-Material audiovisual consultado durante la investigación: se debe registrar aquí el título exacto, autor o canal, fecha de publicación y URL del video utilizado, cuando corresponda.
