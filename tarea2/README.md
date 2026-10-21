@@ -70,19 +70,21 @@ Las siguientes imágenes documentan la configuración y las actividades realizad
 
 ![Evidencia 4. Información de Dart](img/04-dart-version.png)
 
-**Figura 4.** Información de la versión de Dart utilizada.
+![Evidencia 4. Modo desarrollador](img/04a-telefono-dev.png)
 
-![Evidencia 5. Dispositivo Android](img/05-dispositivo.png)
+**Figura 4.** Opciones de desarrollador y depuración USB activadas en el teléfono.
 
-**Figura 5.** Dispositivo Android empleado para las pruebas.
+![Evidencia 5. Flutter devices](img/04b-flutter-devices.png)
 
-![Evidencia 5.1 Aplicación Flutter](img/05-holamundo-flutter.png)
+**Figura 5.** El teléfono aparece en la lista de `flutter devices`.
 
-**Figura 5.1.** Evidencia de la aplicación HolaMundoFlutter ejecutada.
+![Evidencia 6. HolaMundoFlutter](img/05-holamundo-flutter.png)
 
-![Evidencia 6. Aplicación de ejemplo](img/06-holamundo-kmp.png)
+**Figura 6.** Evidencia de la aplicación HolaMundoFlutter ejecutada.
 
-**Figura 6.** Evidencia de la aplicación de ejemplo ejecutada durante la práctica.
+![Evidencia 7. HolaMundoKMP](img/06-holamundo-kmp.png)
+
+**Figura 7.** Evidencia de la aplicación HolaMundoKMP ejecutada durante la práctica.
 
 ## 4. Investigación documental
 
