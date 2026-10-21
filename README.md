@@ -10,3 +10,4 @@ Repositorio individual del curso **Administración de Proyectos de Software** (U
 ## Tareas
 
 - [Tarea 1 · Introducción a la administración de proyectos y entorno de trabajo](tarea1/README.md)
+- [Tarea 2 · Entorno móvil e inteligencia artificial con MCP](tarea2/README.md)
