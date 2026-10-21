@@ -68,8 +68,6 @@ Las siguientes imágenes documentan la configuración y las actividades realizad
 
 **Figura 3.** Comprobación de las herramientas de Flutter mediante `flutter doctor`.
 
-![Evidencia 4. Información de Dart](img/04-dart-version.png)
-
 ![Evidencia 4. Modo desarrollador](img/04a-telefono-dev.png)
 
 **Figura 4.** Opciones de desarrollador y depuración USB activadas en el teléfono.
